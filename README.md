@@ -7,9 +7,10 @@
  - Utilizar linguagem de programacao de sua preferencia. Ex.: Java, C#, etc
  - Fazer upload do projeto no repositório público. Ex. Github, Bitbucket, GitLab, etc. 
  
- ### O Teste
-  - Acessar o site da netshoes, realizar uma busca, escolher um produto e adicionar ao carrinho.
+ ### Cenário a ser testado
+  - Acessar o site da Netshoes.com.br, realizar uma busca, escolher um produto e adicioná-lo ao carrinho.
 
 Qualquer dúvida entre em contato<br>
-Boa sorte
 
+Que a força esteja com você, sempre.<br>
+Boa sorte
