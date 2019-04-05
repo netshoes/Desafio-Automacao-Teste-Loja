@@ -10,6 +10,6 @@
  ### O Teste
   - Acessar o site da netshoes, realizar uma busca, escolher um produto e adicionar ao carrinho.
 
-Qualquer dúvida entre em contato
+Qualquer dúvida entre em contato<br>
 Boa sorte
 
